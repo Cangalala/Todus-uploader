@@ -1,6 +1,6 @@
 class Config(object):
       def __init__(self):
-          self.BotToken     = '1710625956:AAHBoGPuifwjkuvEd7BcB7UnFZ0wF1Dr5No'
+          self.BotToken     = '5620117342:AAGZ0cTnmVuW9GQPW6UVxSQ9ZaE0QiB1W2w'
           self.S3Token      = 'Todus S3 Token Auth'
           self.ChunkSize    = 10
           self.ChunkFixed   = 150
@@ -9,7 +9,7 @@ class Config(object):
           self.ChunkedFileLimit = 1024 * 1024 * 1024
           self.InProcces = False
           self.BotChannel = '-1001432878672'
-          self.AdminUsers = ['Genoskuncyborg']
+          self.AdminUsers = ['overlordox']
           self.current_user_msg = ''
           self.current_chanel_msg = ''
 
